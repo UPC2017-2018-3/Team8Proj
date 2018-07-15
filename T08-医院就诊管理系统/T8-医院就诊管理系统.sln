@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "医院就诊管理系统", ".", "{A4B79AD9-727B-42F8-89CA-90A3485658DA}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/双鱼林asp.net医院管理系统"
+		Debug.AspNetCompiler.PhysicalPath = "E:\项目\未分类\双鱼林asp.net医院管理系统\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\双鱼林asp.net医院管理系统\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/双鱼林asp.net医院管理系统"
+		Release.AspNetCompiler.PhysicalPath = "E:\项目\未分类\双鱼林asp.net医院管理系统\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\双鱼林asp.net医院管理系统\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "4428"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4B79AD9-727B-42F8-89CA-90A3485658DA}.Debug|.NET.ActiveCfg = Debug|.NET
+		{A4B79AD9-727B-42F8-89CA-90A3485658DA}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
